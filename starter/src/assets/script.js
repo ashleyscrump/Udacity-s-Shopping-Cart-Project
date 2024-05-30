@@ -99,6 +99,7 @@ function cartTotal() {
 
   return totalCost;
 }
+//git config --global user.email "email@example.com"
 
 function emptyCart() {
   while (cart.length > 0) {
